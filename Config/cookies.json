@@ -1,0 +1,61 @@
+[
+  {
+    "name": ".AspNetCore.Cookies",
+    "value": "CfDJ8Nfv0a8y6LxBuwA7o2n480dSZKZRWIsCvSai0CxzuActyM7dMaZEX34A4Qk2ihHP-XMXQVr3XS_h2XxK08D2390JSq6QoqKXu-iLOeMkdrUWSdd_6ske5QgW_cD1U08kI0bVRAUgYKTabuPcpIZqAy8Gesi4exL0QjMiwpaAfJ766kj9ESwRgxihlwOSlxuHyO2J8YayIhvlGezrtNDuOn3ns5xwru5gYlkEAbTVAdVp2Ja37bjxg8njBS51JanBzfMHfYTJXZl3PVs-lnrh3mNJdVif-Sbtw1YVElm5cDvUgojneHVt1NWLkLgLQNpeww",
+    "domain": "projects.moravia.com",
+    "path": "/",
+    "expires": -1,
+    "size": 345,
+    "httpOnly": true,
+    "secure": true,
+    "session": true,
+    "sameSite": "Lax",
+    "sameParty": false,
+    "sourceScheme": "Secure",
+    "sourcePort": 443
+  },
+  {
+    "name": "browserupdateorg",
+    "value": "pause",
+    "domain": "projects.moravia.com",
+    "path": "/",
+    "expires": 1756113892,
+    "size": 21,
+    "httpOnly": false,
+    "secure": true,
+    "session": false,
+    "sameSite": "Lax",
+    "sameParty": false,
+    "sourceScheme": "Secure",
+    "sourcePort": 443
+  },
+  {
+    "name": "rf",
+    "value": "CfDJ8Nfv0a8y6LxBuwA7o2n480eX3ny8h2Go81_satEv1ltZ8SGvvaMyVlXYbcEfKHvLhpPxS5b3hyXh7_PvWi1XOcVoqz00IUuRwGfPDC2Ztdag69sTaHIr6B4OI9oWpB_f5CUssv2Q1MJFl8VE9rOYaXU",
+    "domain": "projects.moravia.com",
+    "path": "/",
+    "expires": -1,
+    "size": 157,
+    "httpOnly": true,
+    "secure": true,
+    "session": true,
+    "sameParty": false,
+    "sourceScheme": "Secure",
+    "sourcePort": 443
+  },
+  {
+    "name": "_pk_id.7.33b3",
+    "value": "5b67641b6cb336d0.1750923590.",
+    "domain": "projects.moravia.com",
+    "path": "/",
+    "expires": 1784878790,
+    "size": 41,
+    "httpOnly": false,
+    "secure": false,
+    "session": false,
+    "sameSite": "Lax",
+    "sameParty": false,
+    "sourceScheme": "Secure",
+    "sourcePort": 443
+  }
+]

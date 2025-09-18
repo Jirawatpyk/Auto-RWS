@@ -1,0 +1,5812 @@
+[
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 2000,
+    "user": "system",
+    "timestamp": "2025-06-19T11:09:44.368Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 2000,
+    "user": "system",
+    "timestamp": "2025-06-19T11:17:26.872Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-06-19T11:17:26.874Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 2000,
+    "user": "system",
+    "timestamp": "2025-06-19T11:17:30.239Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 2000,
+    "user": "system",
+    "timestamp": "2025-06-19T13:45:45.047Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-19T13:45:52.849Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 2000,
+    "user": "system",
+    "timestamp": "2025-06-19T13:49:13.418Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 2000,
+    "user": "system",
+    "timestamp": "2025-06-19T13:51:42.004Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-30",
+    "amount": 2000,
+    "user": "system",
+    "timestamp": "2025-06-19T13:51:42.008Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-30",
+    "amount": 2000,
+    "user": "system",
+    "timestamp": "2025-06-19T13:52:07.271Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 2000,
+    "user": "system",
+    "timestamp": "2025-06-19T13:54:05.552Z"
+  },
+  {
+    "type": "override",
+    "date": "date",
+    "amount": "2025-06-19",
+    "user": "system",
+    "timestamp": "2025-06-19T14:11:42.585Z"
+  },
+  {
+    "type": "override",
+    "date": "amount",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-06-19T14:11:42.590Z"
+  },
+  {
+    "type": "override",
+    "date": "amount",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-06-19T14:12:15.542Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 2000,
+    "user": "system",
+    "timestamp": "2025-06-19T14:14:20.727Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 2000,
+    "user": "system",
+    "timestamp": "2025-06-19T14:14:32.468Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 2000,
+    "user": "system",
+    "timestamp": "2025-06-19T14:18:02.069Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 2000,
+    "user": "system",
+    "timestamp": "2025-06-19T14:22:12.567Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-19T14:34:31.334Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-19T14:34:41.928Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-06-19T14:40:29.414Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-06-19T17:34:04.183Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-19T17:34:04.189Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-06-19T17:34:35.821Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-19T17:34:35.827Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-06-19T17:35:43.274Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-19T17:35:43.280Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-21",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-19T17:35:43.286Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-06-19T17:36:16.732Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 7000,
+    "user": "system",
+    "timestamp": "2025-06-19T17:36:16.738Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-21",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-19T17:36:16.743Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-06-19T17:38:17.913Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-19T17:38:17.919Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-21",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-19T17:38:17.924Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-06-19T17:38:52.501Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-19T17:38:52.506Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-21",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-19T17:38:52.513Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-19T17:38:52.518Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-06-19T18:06:04.916Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-19T18:06:04.921Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-21",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-19T18:06:04.927Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-06-19T18:06:06.123Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-19T18:06:06.129Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-06-20T02:49:19.701Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T02:49:37.785Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:06:22.776Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:06:22.781Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:12:55.065Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:13:01.431Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:13:01.437Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:13:16.835Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:13:16.842Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:13:16.850Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:20:35.006Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:20:35.013Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:20:35.021Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:20:39.462Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:20:39.469Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:20:39.477Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:20:43.132Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:20:43.138Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:20:43.145Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:20:45.622Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:20:45.629Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:20:45.636Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:30:46.120Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:30:46.126Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:30:46.134Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 7999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:30:46.141Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:30:48.081Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:30:48.087Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:30:48.094Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:30:48.102Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:30:58.505Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:30:58.511Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:30:58.523Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:30:58.531Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:31:02.255Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:31:02.261Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:31:02.270Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:31:02.280Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:31:03.725Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:31:03.732Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:31:03.739Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:31:03.750Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:31:04.672Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:31:04.678Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:31:04.688Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:31:04.696Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:31:06.897Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:31:06.906Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:31:06.915Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:31:06.926Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:31:08.095Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5998,
+    "user": "system",
+    "timestamp": "2025-06-20T05:31:08.104Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:31:08.114Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:31:08.125Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:31:08.185Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5997,
+    "user": "system",
+    "timestamp": "2025-06-20T05:31:08.194Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:31:08.203Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:31:08.211Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:32:39.859Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5998,
+    "user": "system",
+    "timestamp": "2025-06-20T05:32:39.868Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:32:39.876Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:32:39.884Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:32:40.554Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:32:40.561Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:32:40.570Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:32:40.578Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:32:41.098Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:32:41.107Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:32:41.116Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:32:41.125Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:32:43.674Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:32:43.684Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 6001,
+    "user": "system",
+    "timestamp": "2025-06-20T05:32:43.694Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:32:43.702Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:32:44.548Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:32:44.557Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 6002,
+    "user": "system",
+    "timestamp": "2025-06-20T05:32:44.566Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:32:44.575Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:32:45.275Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:32:45.285Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 6003,
+    "user": "system",
+    "timestamp": "2025-06-20T05:32:45.295Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:32:45.305Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:32:45.964Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:32:45.972Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 6002,
+    "user": "system",
+    "timestamp": "2025-06-20T05:32:45.983Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:32:45.992Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:32:46.539Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:32:46.548Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 6001,
+    "user": "system",
+    "timestamp": "2025-06-20T05:32:46.559Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:32:46.569Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:32:47.105Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:32:47.116Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:32:47.128Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:32:47.138Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:32:50.399Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:32:50.408Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:32:50.418Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:32:50.432Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:32:54.016Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 7000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:32:54.025Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:32:54.037Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:32:54.048Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:34:38.587Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 6999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:34:38.598Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:34:38.607Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:34:38.616Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:34:41.307Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 6998,
+    "user": "system",
+    "timestamp": "2025-06-20T05:34:41.317Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:34:41.327Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:34:41.336Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:34:41.491Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 6997,
+    "user": "system",
+    "timestamp": "2025-06-20T05:34:41.501Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:34:41.510Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:34:41.520Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:34:41.674Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 6996,
+    "user": "system",
+    "timestamp": "2025-06-20T05:34:41.685Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:34:41.694Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:34:41.704Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:34:42.044Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 6995,
+    "user": "system",
+    "timestamp": "2025-06-20T05:34:42.058Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:34:42.070Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:34:42.081Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:34:42.386Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 6994,
+    "user": "system",
+    "timestamp": "2025-06-20T05:34:42.397Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:34:42.407Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:34:42.418Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:34:42.659Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 6993,
+    "user": "system",
+    "timestamp": "2025-06-20T05:34:42.671Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:34:42.683Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:34:42.696Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:34:44.555Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:34:44.565Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:34:44.574Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:34:44.585Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:34:47.835Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:34:47.848Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:34:47.861Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:34:47.873Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:38:01.324Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:38:01.336Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:38:01.347Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:38:01.357Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:38:02.621Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:38:02.633Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:38:02.645Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:38:02.655Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:38:09.774Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:38:09.787Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5998,
+    "user": "system",
+    "timestamp": "2025-06-20T05:38:09.798Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:38:09.809Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:38:11.029Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:38:11.041Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:38:11.054Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:38:11.065Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:38:11.453Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:38:11.464Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5998,
+    "user": "system",
+    "timestamp": "2025-06-20T05:38:11.475Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:38:11.487Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:38:12.205Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:38:12.219Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5997,
+    "user": "system",
+    "timestamp": "2025-06-20T05:38:12.230Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:38:12.244Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:38:54.093Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:38:54.105Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5998,
+    "user": "system",
+    "timestamp": "2025-06-20T05:38:54.118Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:38:54.133Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:38:56.799Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:38:56.811Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:38:56.825Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:38:56.838Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:38:57.566Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:38:57.580Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:38:57.593Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:38:57.607Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:38:58.300Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:38:58.313Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:38:58.326Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:38:58.338Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:38:59.104Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:38:59.117Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5998,
+    "user": "system",
+    "timestamp": "2025-06-20T05:38:59.129Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:38:59.142Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:38:59.701Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:38:59.716Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5997,
+    "user": "system",
+    "timestamp": "2025-06-20T05:38:59.729Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:38:59.744Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:39:00.252Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:39:00.264Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5998,
+    "user": "system",
+    "timestamp": "2025-06-20T05:39:00.277Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:39:00.291Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:39:00.719Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:39:00.733Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:39:00.746Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:39:00.761Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:39:01.403Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:39:01.416Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:39:01.428Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:39:01.445Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:39:02.220Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 6001,
+    "user": "system",
+    "timestamp": "2025-06-20T05:39:02.233Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:39:02.245Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:39:02.258Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:39:02.802Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:39:02.817Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:39:02.832Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:39:02.846Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:39:03.471Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:39:03.484Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:39:03.500Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:39:03.515Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:39:04.435Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5998,
+    "user": "system",
+    "timestamp": "2025-06-20T05:39:04.449Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:39:04.466Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:39:04.484Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:39:05.536Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:39:05.552Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:39:05.565Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:39:05.582Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:39:06.745Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:39:06.760Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:39:06.784Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:39:06.805Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:39:07.424Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:39:07.440Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:39:07.456Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:39:07.470Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:40:28.169Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5998,
+    "user": "system",
+    "timestamp": "2025-06-20T05:40:28.188Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:40:28.201Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:40:28.215Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:40:29.099Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5997,
+    "user": "system",
+    "timestamp": "2025-06-20T05:40:29.113Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:40:29.128Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:40:29.142Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:40:30.111Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5996,
+    "user": "system",
+    "timestamp": "2025-06-20T05:40:30.125Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:40:30.139Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:40:30.153Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:40:32.525Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5995,
+    "user": "system",
+    "timestamp": "2025-06-20T05:40:32.541Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:40:32.558Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:40:32.572Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:41:31.326Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5994,
+    "user": "system",
+    "timestamp": "2025-06-20T05:41:31.344Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:41:31.360Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:41:31.374Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:41:32.191Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5995,
+    "user": "system",
+    "timestamp": "2025-06-20T05:41:32.208Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:41:32.223Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:41:32.238Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:41:33.167Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5994,
+    "user": "system",
+    "timestamp": "2025-06-20T05:41:33.182Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:41:33.197Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:41:33.211Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:41:34.077Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5993,
+    "user": "system",
+    "timestamp": "2025-06-20T05:41:34.092Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:41:34.108Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:41:34.124Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:41:34.995Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5992,
+    "user": "system",
+    "timestamp": "2025-06-20T05:41:35.011Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:41:35.027Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:41:35.043Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:41:35.270Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5991,
+    "user": "system",
+    "timestamp": "2025-06-20T05:41:35.286Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:41:35.305Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:41:35.321Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:41:36.069Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5990,
+    "user": "system",
+    "timestamp": "2025-06-20T05:41:36.086Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:41:36.103Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:41:36.119Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:41:39.342Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5990,
+    "user": "system",
+    "timestamp": "2025-06-20T05:41:39.361Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:41:39.375Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:41:39.391Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:36.557Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5990,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:36.577Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:36.598Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:36.615Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:37.927Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5990,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:37.946Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:37.963Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:37.978Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:44.404Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5989,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:44.422Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:44.443Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:44.462Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:44.791Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5990,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:44.808Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:44.826Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:44.843Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:45.385Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5991,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:45.401Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:45.417Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:45.435Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:45.482Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5992,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:45.509Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:45.526Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:45.544Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:46.110Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5993,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:46.130Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:46.147Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:46.163Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:46.217Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5994,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:46.236Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:46.256Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:46.272Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:46.678Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5995,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:46.694Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:46.711Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:46.729Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:46.880Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5996,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:46.903Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:46.920Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:46.937Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:47.109Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5997,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:47.130Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:47.149Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:47.166Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:47.494Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5998,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:47.511Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:47.530Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:47.548Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:47.822Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:47.839Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:47.856Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:47.875Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:48.125Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:48.144Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:48.162Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:48.179Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:49.096Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:49.114Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:49.133Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:49.151Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:49.656Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:49.674Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:49.694Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:42:49.710Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:44:28.185Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:44:28.202Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:44:28.220Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:44:28.240Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:44:28.675Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:44:28.695Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:44:28.714Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:44:28.733Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:44:29.473Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:44:29.491Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T05:44:29.509Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T05:44:29.529Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T06:44:57.594Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T06:44:57.617Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T06:44:57.635Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T06:44:57.654Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T06:45:02.385Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 5999,
+    "user": "system",
+    "timestamp": "2025-06-20T06:45:02.406Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T06:45:02.428Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T06:45:02.447Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T06:45:04.467Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T06:45:04.489Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T06:45:04.509Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T06:45:04.528Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T06:45:23.003Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 0,
+    "user": "system",
+    "timestamp": "2025-06-20T06:45:23.021Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T06:45:23.044Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T06:45:23.065Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T06:58:36.051Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 7000,
+    "user": "system",
+    "timestamp": "2025-06-20T06:58:36.072Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T06:58:36.092Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T06:58:36.110Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T06:58:43.666Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T06:58:43.686Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T06:58:43.707Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T06:58:43.726Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T07:07:03.619Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T07:07:03.641Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T07:07:03.661Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T07:07:03.681Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-26",
+    "amount": 7000,
+    "user": "system",
+    "timestamp": "2025-06-20T07:07:03.703Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T07:07:10.325Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T07:07:10.350Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T07:07:10.371Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T07:07:10.393Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-26",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T07:07:10.411Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T07:09:56.726Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-25",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T07:09:56.748Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T07:09:56.769Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T07:09:56.789Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T07:09:58.821Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T07:09:58.842Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T07:09:58.865Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-20",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-06-20T11:04:08.840Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-24",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T11:04:08.869Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-19",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-06-20T11:04:08.890Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-26",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-06-25T14:59:29.204Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-26",
+    "amount": 3000,
+    "user": "system",
+    "timestamp": "2025-06-25T14:59:35.897Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-26",
+    "amount": 3000,
+    "user": "system",
+    "timestamp": "2025-06-25T14:59:45.659Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-26",
+    "amount": 3000,
+    "user": "system",
+    "timestamp": "2025-06-25T14:59:48.965Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-06-27",
+    "amount": 3000,
+    "user": "system",
+    "timestamp": "2025-06-25T14:59:48.987Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-07-10",
+    "amount": 0,
+    "user": "system",
+    "timestamp": "2025-07-09T15:55:10.103Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-07-10",
+    "amount": 1,
+    "user": "system",
+    "timestamp": "2025-07-09T15:55:24.345Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-07-10",
+    "amount": 0,
+    "user": "system",
+    "timestamp": "2025-07-09T15:55:26.753Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-07-10",
+    "amount": 1,
+    "user": "system",
+    "timestamp": "2025-07-09T15:55:32.527Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-07-10",
+    "amount": 1,
+    "user": "system",
+    "timestamp": "2025-07-09T15:55:43.003Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-07-09",
+    "amount": 5550,
+    "user": "system",
+    "timestamp": "2025-07-09T15:55:43.024Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-07-17",
+    "amount": 7000,
+    "user": "system",
+    "timestamp": "2025-07-17T10:31:05.446Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-07-17",
+    "amount": 5550,
+    "user": "system",
+    "timestamp": "2025-07-17T10:31:08.319Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-07-17",
+    "amount": 5000,
+    "user": "system",
+    "timestamp": "2025-07-17T10:31:15.044Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-07-17",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-07-17T10:31:17.411Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-07-18",
+    "amount": 7000,
+    "user": "system",
+    "timestamp": "2025-07-18T03:13:22.976Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-07-18",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-07-18T03:13:55.441Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-07-29",
+    "amount": 6426,
+    "user": "system",
+    "timestamp": "2025-07-26T01:42:07.947Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-07-29",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-07-26T01:42:24.019Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-07-29",
+    "amount": 6500,
+    "user": "system",
+    "timestamp": "2025-07-26T01:42:43.817Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-07-29",
+    "amount": 6500,
+    "user": "system",
+    "timestamp": "2025-07-26T01:42:47.460Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-07-30",
+    "amount": 6500,
+    "user": "system",
+    "timestamp": "2025-07-26T01:42:47.489Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-07-29",
+    "amount": 6500,
+    "user": "system",
+    "timestamp": "2025-07-26T03:52:31.992Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-07-30",
+    "amount": 7000,
+    "user": "system",
+    "timestamp": "2025-07-26T03:52:32.017Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-07-29",
+    "amount": 7000,
+    "user": "system",
+    "timestamp": "2025-07-26T03:52:35.998Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-07-30",
+    "amount": 7000,
+    "user": "system",
+    "timestamp": "2025-07-26T03:52:36.026Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-07",
+    "amount": 7000,
+    "user": "system",
+    "timestamp": "2025-08-04T03:44:23.098Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-07",
+    "amount": 8000,
+    "user": "system",
+    "timestamp": "2025-08-04T03:50:19.439Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-18",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-15T10:34:32.936Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-18",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-15T10:34:39.040Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-19",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-15T10:34:39.071Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-18",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-15T10:34:42.774Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-19",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-15T10:34:42.800Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-20",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-15T10:34:42.827Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-18",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-15T10:34:48.407Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-19",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-15T10:34:48.434Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-20",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-15T10:34:48.467Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-21",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-15T10:34:48.504Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-18",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-15T10:34:52.577Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-19",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-15T10:34:52.626Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-20",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-15T10:34:52.666Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-21",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-15T10:34:52.726Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-22",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-15T10:34:52.765Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-20",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-20T03:36:29.895Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-21",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-20T03:36:29.924Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-22",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-20T03:36:29.951Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-25",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-20T03:36:29.978Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-20",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-20T03:36:45.524Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-21",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-20T03:36:45.549Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-22",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-20T03:36:45.584Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-25",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-20T03:36:45.618Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-26",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-20T03:36:45.648Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-20",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-20T03:36:51.091Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-21",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-20T03:36:51.123Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-22",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-20T03:36:51.149Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-25",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-20T03:36:51.175Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-26",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-20T03:36:51.205Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-27",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-20T03:36:51.235Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-20",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-20T03:36:58.920Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-21",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-20T03:36:58.949Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-22",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-20T03:36:58.983Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-25",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-20T03:36:59.016Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-26",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-20T03:36:59.050Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-27",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-20T03:36:59.082Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-28",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-20T03:36:59.115Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-20",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-20T03:37:02.244Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-21",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-20T03:37:02.273Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-22",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-20T03:37:02.313Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-25",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-20T03:37:02.349Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-26",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-20T03:37:02.381Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-27",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-20T03:37:02.410Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-28",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-20T03:37:02.441Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-29",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-20T03:37:02.471Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-25",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-25T02:48:43.042Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-26",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-25T02:48:43.079Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-27",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-25T02:48:43.128Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-28",
+    "amount": 0,
+    "user": "system",
+    "timestamp": "2025-08-25T02:48:43.163Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-29",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-25T02:48:43.200Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-25",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-25T02:48:45.564Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-26",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-25T02:48:45.592Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-27",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-25T02:48:45.625Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-28",
+    "amount": 0,
+    "user": "system",
+    "timestamp": "2025-08-25T02:48:45.653Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-29",
+    "amount": 0,
+    "user": "system",
+    "timestamp": "2025-08-25T02:48:45.688Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-25",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-25T02:48:47.361Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-26",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-25T02:48:47.391Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-27",
+    "amount": 0,
+    "user": "system",
+    "timestamp": "2025-08-25T02:48:47.422Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-28",
+    "amount": 0,
+    "user": "system",
+    "timestamp": "2025-08-25T02:48:47.452Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-29",
+    "amount": 0,
+    "user": "system",
+    "timestamp": "2025-08-25T02:48:47.483Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-25",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-25T02:49:03.381Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-26",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-25T02:49:03.420Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-27",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-08-25T02:49:03.485Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-28",
+    "amount": 0,
+    "user": "system",
+    "timestamp": "2025-08-25T02:49:03.543Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-29",
+    "amount": 0,
+    "user": "system",
+    "timestamp": "2025-08-25T02:49:03.586Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-25",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-25T02:49:08.692Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-26",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-25T02:49:08.719Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-27",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-08-25T02:49:08.751Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-28",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-08-25T02:49:08.782Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-29",
+    "amount": 0,
+    "user": "system",
+    "timestamp": "2025-08-25T02:49:08.812Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-25",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-25T02:49:12.675Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-26",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-25T02:49:12.708Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-27",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-08-25T02:49:12.738Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-28",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-08-25T02:49:12.778Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-29",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-08-25T02:49:12.813Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-25",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-25T03:34:02.966Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-26",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-25T03:34:03.004Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-27",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-25T03:34:03.034Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-28",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-08-25T03:34:03.073Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-29",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-08-25T03:34:03.101Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-25",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-25T03:34:05.275Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-26",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-25T03:34:05.304Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-27",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-25T03:34:05.338Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-28",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-25T03:34:05.369Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-29",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-08-25T03:34:05.401Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-25",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-25T03:35:07.205Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-26",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-08-25T03:35:07.237Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-27",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-25T03:35:07.266Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-28",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-25T03:35:07.305Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-29",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-08-25T03:35:07.345Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-25",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-25T03:35:07.402Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-26",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-08-25T03:35:07.433Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-27",
+    "amount": 5,
+    "user": "system",
+    "timestamp": "2025-08-25T03:35:07.466Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-28",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-25T03:35:07.504Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-29",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-08-25T03:35:07.537Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-25",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-25T03:35:09.140Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-26",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-08-25T03:35:09.174Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-27",
+    "amount": 400,
+    "user": "system",
+    "timestamp": "2025-08-25T03:35:09.209Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-28",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-25T03:35:09.242Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-29",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-08-25T03:35:09.277Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-25",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-25T03:35:11.061Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-26",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-08-25T03:35:11.097Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-27",
+    "amount": 400,
+    "user": "system",
+    "timestamp": "2025-08-25T03:35:11.132Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-28",
+    "amount": 400,
+    "user": "system",
+    "timestamp": "2025-08-25T03:35:11.163Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-29",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-08-25T03:35:11.207Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-25",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-25T03:35:12.129Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-26",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-08-25T03:35:12.158Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-27",
+    "amount": 400,
+    "user": "system",
+    "timestamp": "2025-08-25T03:35:12.190Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-28",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-08-25T03:35:12.220Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-29",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-08-25T03:35:12.249Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-25",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-25T03:35:13.126Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-26",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-08-25T03:35:13.156Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-27",
+    "amount": 399,
+    "user": "system",
+    "timestamp": "2025-08-25T03:35:13.193Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-28",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-08-25T03:35:13.222Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-29",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-08-25T03:35:13.251Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-25",
+    "amount": 500,
+    "user": "system",
+    "timestamp": "2025-08-25T03:35:14.969Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-26",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-08-25T03:35:15.005Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-27",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-08-25T03:35:15.036Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-28",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-08-25T03:35:15.067Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-29",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-08-25T03:35:15.098Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-26",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-08-26T10:54:25.205Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-27",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-08-26T10:54:25.243Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-28",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-08-26T10:54:25.279Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-29",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-08-26T10:54:25.314Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-01",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-08-26T10:54:25.349Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-26",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-08-26T16:05:42.852Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-27",
+    "amount": 5000,
+    "user": "system",
+    "timestamp": "2025-08-26T16:05:42.899Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-28",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-08-26T16:05:42.927Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-29",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-08-26T16:05:42.958Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-01",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-08-26T16:05:42.991Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-26",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-08-28T04:04:26.291Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-27",
+    "amount": 5000,
+    "user": "system",
+    "timestamp": "2025-08-28T04:04:26.332Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-28",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-08-28T04:04:26.375Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-29",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-08-28T04:04:26.416Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-01",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-08-28T04:04:26.456Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-26",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-08-28T04:21:45.629Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-27",
+    "amount": 5000,
+    "user": "system",
+    "timestamp": "2025-08-28T04:21:45.664Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-28",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-08-28T04:21:45.700Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-29",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-08-28T04:21:45.740Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-01",
+    "amount": 4500,
+    "user": "system",
+    "timestamp": "2025-08-28T04:21:45.777Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-26",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-09-01T02:44:52.001Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-27",
+    "amount": 5000,
+    "user": "system",
+    "timestamp": "2025-09-01T02:44:52.042Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-28",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-09-01T02:44:52.082Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-29",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-09-01T02:44:52.127Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-01",
+    "amount": 4500,
+    "user": "system",
+    "timestamp": "2025-09-01T02:44:52.169Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-02",
+    "amount": 4500,
+    "user": "system",
+    "timestamp": "2025-09-01T02:44:52.213Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-26",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-09-01T02:44:54.682Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-27",
+    "amount": 5000,
+    "user": "system",
+    "timestamp": "2025-09-01T02:44:54.711Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-28",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-09-01T02:44:54.760Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-29",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-09-01T02:44:54.804Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-01",
+    "amount": 4500,
+    "user": "system",
+    "timestamp": "2025-09-01T02:44:54.844Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-02",
+    "amount": 4500,
+    "user": "system",
+    "timestamp": "2025-09-01T02:44:54.877Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-03",
+    "amount": 4500,
+    "user": "system",
+    "timestamp": "2025-09-01T02:44:54.907Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-26",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-09-01T02:44:58.165Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-27",
+    "amount": 5000,
+    "user": "system",
+    "timestamp": "2025-09-01T02:44:58.193Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-28",
+    "amount": 6000,
+    "user": "system",
+    "timestamp": "2025-09-01T02:44:58.227Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-08-29",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-09-01T02:44:58.259Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-01",
+    "amount": 4500,
+    "user": "system",
+    "timestamp": "2025-09-01T02:44:58.291Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-02",
+    "amount": 4500,
+    "user": "system",
+    "timestamp": "2025-09-01T02:44:58.322Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-03",
+    "amount": 4500,
+    "user": "system",
+    "timestamp": "2025-09-01T02:44:58.356Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-04",
+    "amount": 4500,
+    "user": "system",
+    "timestamp": "2025-09-01T02:44:58.390Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-01",
+    "amount": 4500,
+    "user": "system",
+    "timestamp": "2025-09-01T11:21:28.830Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-02",
+    "amount": 400,
+    "user": "system",
+    "timestamp": "2025-09-01T11:21:28.865Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-03",
+    "amount": 4500,
+    "user": "system",
+    "timestamp": "2025-09-01T11:21:28.910Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-04",
+    "amount": 4500,
+    "user": "system",
+    "timestamp": "2025-09-01T11:21:28.955Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-01",
+    "amount": 4500,
+    "user": "system",
+    "timestamp": "2025-09-01T11:21:31.284Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-02",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-09-01T11:21:31.325Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-03",
+    "amount": 4500,
+    "user": "system",
+    "timestamp": "2025-09-01T11:21:31.362Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-04",
+    "amount": 4500,
+    "user": "system",
+    "timestamp": "2025-09-01T11:21:31.397Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-01",
+    "amount": 4500,
+    "user": "system",
+    "timestamp": "2025-09-01T11:21:33.753Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-02",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-09-01T11:21:33.805Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-03",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-09-01T11:21:33.842Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-04",
+    "amount": 4500,
+    "user": "system",
+    "timestamp": "2025-09-01T11:21:33.881Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-01",
+    "amount": 4500,
+    "user": "system",
+    "timestamp": "2025-09-01T11:21:35.203Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-02",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-09-01T11:21:35.233Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-03",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-09-01T11:21:35.271Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-04",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-09-01T11:21:35.303Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-01",
+    "amount": 4500,
+    "user": "system",
+    "timestamp": "2025-09-01T11:21:42.652Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-02",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-09-01T11:21:42.698Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-03",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-09-01T11:21:42.733Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-04",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-09-01T11:21:42.769Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-05",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-09-01T11:21:42.806Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-03",
+    "amount": 2000,
+    "user": "system",
+    "timestamp": "2025-09-03T04:56:09.434Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-04",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-09-03T04:56:09.489Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-05",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-09-03T04:56:09.533Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-03",
+    "amount": 2000,
+    "user": "system",
+    "timestamp": "2025-09-03T05:49:59.803Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-04",
+    "amount": 0,
+    "user": "system",
+    "timestamp": "2025-09-03T05:49:59.843Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-05",
+    "amount": 4000,
+    "user": "system",
+    "timestamp": "2025-09-03T05:49:59.882Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-03",
+    "amount": 2000,
+    "user": "system",
+    "timestamp": "2025-09-03T05:50:01.486Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-04",
+    "amount": 0,
+    "user": "system",
+    "timestamp": "2025-09-03T05:50:01.518Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-05",
+    "amount": 0,
+    "user": "system",
+    "timestamp": "2025-09-03T05:50:01.562Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-03",
+    "amount": 2000,
+    "user": "system",
+    "timestamp": "2025-09-03T10:26:19.729Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-04",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-03T10:26:19.766Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-05",
+    "amount": 0,
+    "user": "system",
+    "timestamp": "2025-09-03T10:26:19.803Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-03",
+    "amount": 2000,
+    "user": "system",
+    "timestamp": "2025-09-03T10:26:23.666Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-04",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-03T10:26:23.698Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-05",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-03T10:26:23.733Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-03",
+    "amount": 2000,
+    "user": "system",
+    "timestamp": "2025-09-03T10:26:30.255Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-04",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-03T10:26:30.289Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-05",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-03T10:26:30.326Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-08",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-03T10:26:30.366Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-03",
+    "amount": 2000,
+    "user": "system",
+    "timestamp": "2025-09-03T10:26:33.698Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-04",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-03T10:26:33.754Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-05",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-03T10:26:33.816Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-08",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-03T10:26:33.873Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-09",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-03T10:26:33.921Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-03",
+    "amount": 2000,
+    "user": "system",
+    "timestamp": "2025-09-03T10:26:37.099Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-04",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-03T10:26:37.141Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-05",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-03T10:26:37.189Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-08",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-03T10:26:37.231Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-09",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-03T10:26:37.267Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-10",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-03T10:26:37.311Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-03",
+    "amount": 2000,
+    "user": "system",
+    "timestamp": "2025-09-03T10:26:41.611Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-04",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-03T10:26:41.645Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-05",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-03T10:26:41.692Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-08",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-03T10:26:41.731Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-09",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-03T10:26:41.765Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-10",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-03T10:26:41.799Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-11",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-03T10:26:41.835Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-03",
+    "amount": 2000,
+    "user": "system",
+    "timestamp": "2025-09-03T10:26:47.061Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-04",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-03T10:26:47.102Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-05",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-03T10:26:47.138Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-08",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-03T10:26:47.178Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-09",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-03T10:26:47.213Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-10",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-03T10:26:47.246Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-11",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-03T10:26:47.280Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-12",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-03T10:26:47.313Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-08",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:25.482Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-09",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:25.525Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-10",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:25.569Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-11",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:25.606Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-12",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:25.639Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-15",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:25.676Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-08",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:30.710Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-09",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:30.746Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-10",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:30.789Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-11",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:30.822Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-12",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:30.866Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-15",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:30.939Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-16",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:30.989Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-08",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:34.662Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-09",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:34.699Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-10",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:34.740Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-11",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:34.776Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-12",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:34.813Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-15",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:34.848Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-16",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:34.884Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-17",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:34.941Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-08",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:39.238Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-09",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:39.271Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-10",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:39.310Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-11",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:39.348Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-12",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:39.388Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-15",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:39.424Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-16",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:39.460Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-17",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:39.498Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-18",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:39.532Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-08",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:43.276Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-09",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:43.328Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-10",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:43.387Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-11",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:43.432Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-12",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:43.469Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-15",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:43.505Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-16",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:43.539Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-17",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:43.575Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-18",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:43.616Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-19",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:43.656Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-08",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:48.543Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-09",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:48.578Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-10",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:48.614Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-11",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:48.650Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-12",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:48.686Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-15",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:48.722Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-16",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:48.757Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-17",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:48.791Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-18",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:48.832Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-19",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:48.871Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-22",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:48.913Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-08",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:52.365Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-09",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:52.402Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-10",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:52.450Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-11",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:52.489Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-12",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:52.527Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-15",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:52.568Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-16",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:52.607Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-17",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:52.653Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-18",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:52.699Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-19",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:52.735Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-22",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:52.773Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-23",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:52.814Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-08",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:56.427Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-09",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:56.465Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-10",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:56.510Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-11",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:56.547Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-12",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:56.588Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-15",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:56.626Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-16",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:56.661Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-17",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:56.701Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-18",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:56.739Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-19",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:56.776Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-22",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:56.812Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-23",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:56.850Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-24",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:56.888Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-08",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:59.624Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-09",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:59.661Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-10",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:59.700Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-11",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:59.736Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-12",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:59.779Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-15",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:59.823Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-16",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:59.861Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-17",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:59.905Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-18",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:59.943Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-19",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:50:59.982Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-22",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:00.025Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-23",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:00.076Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-24",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:00.118Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-25",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:00.163Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-08",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:02.998Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-09",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:03.064Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-10",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:03.121Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-11",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:03.158Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-12",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:03.198Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-15",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:03.239Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-16",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:03.274Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-17",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:03.311Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-18",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:03.348Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-19",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:03.388Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-22",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:03.426Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-23",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:03.465Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-24",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:03.510Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-25",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:03.551Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-26",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:03.591Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-08",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:10.945Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-09",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:10.990Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-10",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:11.070Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-11",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:11.123Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-12",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:11.163Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-15",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:11.203Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-16",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:11.246Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-17",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:11.285Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-18",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:11.326Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-19",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:11.368Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-22",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:11.407Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-23",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:11.445Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-24",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:11.482Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-25",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:11.529Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-26",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:11.570Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-29",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:11.609Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-08",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:13.871Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-09",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:13.920Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-10",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:13.968Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-11",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:14.005Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-12",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:14.048Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-15",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:14.086Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-16",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:14.126Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-17",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:14.166Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-18",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:14.209Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-19",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:14.257Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-22",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:14.303Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-23",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:14.346Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-24",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:14.397Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-25",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:14.440Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-26",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:14.483Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-29",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:14.525Z"
+  },
+  {
+    "type": "override",
+    "date": "2025-09-30",
+    "amount": 12000,
+    "user": "system",
+    "timestamp": "2025-09-08T03:51:14.572Z"
+  }
+]

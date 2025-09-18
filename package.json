@@ -1,0 +1,30 @@
+{
+  "name": "auto-accept-rws",
+  "version": "1.0.0",
+  "description": "ระบบ Auto Accept RWS - รันงานจาก Google Sheets + Login + Click + เขียนผล",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "คุณ",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "chalk": "^4.1.2",
+    "cheerio": "^1.1.0",
+    "cors": "^2.8.5",
+    "dayjs": "^1.11.10",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "google-spreadsheet": "^3.3.0",
+    "googleapis": "^149.0.0",
+    "imap": "^0.8.19",
+    "imapflow": "^1.0.188",
+    "mailparser": "^3.7.3",
+    "node-cron": "^4.1.0",
+    "node-schedule": "^2.1.1",
+    "puppeteer": "^21.11.0",
+    "socket.io": "^4.8.1",
+    "winston": "^3.17.0"
+  }
+}

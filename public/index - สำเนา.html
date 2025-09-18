@@ -1,0 +1,636 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Enterprise Capacity Dashboard</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&amp;display=swap" rel="stylesheet"/>
+<script src="https://cdn.tailwindcss.com">
+</script>
+<script src="https://cdn.jsdelivr.net/npm/flatpickr">
+</script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js">
+</script>
+<link href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css" rel="stylesheet"/>
+<style>
+    body { font-family: 'Inter', sans-serif; }
+  </style>
+</head>
+<body class="bg-gray-900 text-white font-inter flex flex-col min-h-screen">
+<header class="bg-gradient-to-r from-cyan-400 to-blue-600 shadow relative h-20 flex items-center px-6">
+  <!-- Logo -->
+  <div class="flex items-center">
+    <img src="/assets/logo.png" alt="Logo" class="h-8" />
+  </div>
+
+  <!-- Absolute Center Title -->
+  <h1 class="absolute left-1/2 transform -translate-x-1/2 text-white text-3xl font-bold">
+    Auto RWS Dashboard
+  </h1>
+
+  <!-- Status -->
+  <div class="ml-auto">
+    <span id="connectionStatus" class="text-sm font-semibold px-3 py-1 rounded bg-black/30 text-green-300 border border-white/20 shadow">
+      🔴 Disconnected
+    </span>
+  </div>
+</header>
+
+
+
+
+
+<!-- TaskStarus -->
+  <section>
+  <div class="pt-3 pb-2 grid grid-cols-1 md:grid-cols-3 gap-6 p-6">
+    <div class="bg-gray-800 rounded-2xl p-6 shadow-md text-center">
+      <h3 class="text-gray-400 font-semibold">Pending</h3>
+      <h2 id="pendingCount" class="text-yellow-400 text-4xl font-bold">0</h2>
+    </div>
+    <div class="bg-gray-800 rounded-2xl p-6 shadow-md text-center">
+      <h3 class="text-gray-400 font-semibold">Success</h3>
+      <h2 id="successCount" class="text-green-400 text-4xl font-bold">0</h2>
+    </div>
+    <div class="bg-gray-800 rounded-2xl p-6 shadow-md text-center">
+      <h3 class="text-gray-400 font-semibold">Failed</h3>
+      <h2 id="errorCount" class="text-red-400 text-4xl font-bold">0</h2>
+    </div>
+     </div>
+       </section>
+ <!-- Summary + Chart moved to top -->
+  <main class="pt-2 pb-2 p-6 grid grid-cols-1 md:grid-cols-2 gap-6">
+    <!-- Summary Table -->
+    <div class="bg-gray-800 p-6 rounded-2xl shadow-md">
+<div class="flex justify-between items-center mb-4">
+  <h2 class="text-lg font-semibold">📅 Daily Capacity Summary</h2>
+  <div class="flex items-center gap-2">
+    
+    <button
+  id="cleanupBtn"
+  class="bg-purple-700 hover:bg-purple-800 text-white px-3 py-1 rounded flex items-center gap-2 text-sm"
+>
+  <span class="text-lg">🧹</span>
+  <span class="text-sm">Cleanup</span>
+</button>
+    <button id="pauseBtn" class="bg-yellow-500 hover:bg-yellow-600 text-white px-3 py-1 rounded flex items-center gap-2 text-sm">
+      <span class="text-lg">⏸️</span>
+      <span class="text-sm">Pause IMAP</span>
+    </button>
+  </div>
+</div>
+
+      <table class="min-w-full text-sm">
+        <thead>
+          <tr class="text-left text-gray-400 border-b border-gray-700">
+           <th class="py-1 text-center">✓</th>
+            <th class="py-1">Date</th>
+            <th class="py-1">Used</th>
+            <th class="py-1">Limit</th>
+            <th class="py-1">Utilization</th>
+          </tr>
+        </thead>
+        <tbody class="text-gray-300" id="dailySummaryTable"></tbody>
+      </table>
+    </div>
+
+    <!-- Capacity Chart -->
+    <div class="bg-gray-800 p-6 rounded-2xl shadow-md">
+      <h2 class="text-lg font-semibold mb-4">📈 Capacity Chart</h2>
+      <canvas id="capacityChart" class="w-full h-56"></canvas>
+    </div>
+  </main>
+
+  <!-- Unified Override + Adjust Block -->
+  <section class="pt-2 pb-2 px-6">
+    <div class="bg-gray-800 p-6 rounded-2xl shadow-md">
+      <h2 class="text-white text-lg font-semibold mb-4">🛠️ Daily Capacity Management</h2>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+        <!-- Override -->
+        <div>
+          <h3 class="text-white font-semibold mb-2">📅 Set Daily Word Limit (Override)</h3>
+          <div class="flex flex-wrap items-center gap-4 mb-2">
+            <input class="bg-gray-700 text-white px-3 py-2 rounded-md" id="overrideDate" placeholder="Select date" type="text" />
+            <input class="bg-gray-700 text-white px-3 py-2 rounded-md" id="overrideValue" placeholder="Words limit (e.g. 8000)" type="number" />
+            <button class="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-md shadow" onclick="saveOverride()">💾 Save</button>
+          </div>
+          <p class="text-sm text-gray-400">Set custom daily limit based on team availability.</p>
+          <p class="text-sm text-green-400 hidden" id="overrideMessage">✅ Override saved!</p>
+          <p class="text-sm text-red-400 hidden" id="overrideWarning">❌ Limit cannot be lower than used value</p>
+        </div>
+        <!-- Adjust -->
+        <div>
+          <h3 class="text-white font-semibold mb-2">✏️ Adjust Actual Usage (Manual)</h3>
+          <div class="flex flex-wrap items-center gap-4 mb-2">
+            <input class="bg-gray-700 text-white px-3 py-2 rounded-md" id="adjustDate" placeholder="Select date" type="text" />
+            <input class="bg-gray-700 text-white px-3 py-2 rounded-md" id="adjustAmount" placeholder="+/- word count" type="number" />
+            <button class="bg-yellow-600 hover:bg-yellow-700 text-white px-4 py-2 rounded-md shadow" onclick="adjustCapacity()">✏️ Adjust</button>
+          </div>
+          <p class="text-sm text-gray-400">Use this to manually correct usage (e.g. -1000 words).</p>
+          <p class="text-sm text-green-400 mt-2 hidden" id="adjustMessage">✅ Adjustment successful</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Current Overrides Table
+  <section class="p-6">
+    <div class="bg-gray-800 p-6 rounded-2xl shadow-md">
+      <h3 class="text-lg font-semibold mb-4">📋 Current Overrides</h3>
+      <table class="min-w-full text-sm mt-2">
+        <thead>
+          <tr class="text-left text-gray-400 border-b border-gray-700">
+            <th class="py-1">Date</th>
+            <th class="py-1">Limit</th>
+            <th class="py-1">Used</th>
+            <th class="py-1">Actions</th>
+          </tr>
+        </thead>
+        <tbody class="text-gray-300" id="overrideItems"></tbody>
+      </table>
+    </div>
+  </section> -->
+<footer class="text-gray-500 text-sm pt-6 pb-6 border-t border-gray-800">
+<div class="flex flex-col items-center justify-center text-center">
+<p class="mb-1">© 2025 Auto RWS System. All rights reserved.</p>
+<p>Designed &amp; Engineered by <strong class="text-white">Jirawat Piyakit</strong></p>
+</div>
+</footer>
+<script>
+    const pendingEl = document.getElementById("pendingCount");
+    const successEl = document.getElementById("successCount");
+    const errorEl = document.getElementById("errorCount");
+    const statusEl = document.getElementById("connectionStatus");
+    const pauseStatus = document.getElementById("pauseStatus");
+    const pauseBtn = document.getElementById("pauseBtn");
+    let isTransitioning = false;
+    
+    flatpickr("#overrideDate", {
+      defaultDate: new Date(),
+      dateFormat: "Y-m-d",
+      minDate: "today"
+    });
+    
+        flatpickr("#adjustDate", {
+      defaultDate: new Date(),
+      dateFormat: "Y-m-d",
+      minDate: "today"
+});
+
+function updateConnectionStatus(isConnected) {
+  const statusEl = document.getElementById("connectionStatus");
+  statusEl.textContent = isConnected ? "🟢 Connected" : "🔴 Disconnected";
+  statusEl.classList.toggle("text-green-400", isConnected);
+  statusEl.classList.toggle("text-red-400", !isConnected);
+}
+
+  function setupWebSocket() {
+  const ws = new WebSocket(`ws://${location.host}`);
+
+  ws.onopen = () => {
+    console.log("✅ Connected to WebSocket server");
+    updateConnectionStatus(true); // ถ้ามี UI สีสถานะ
+  };
+
+ws.onmessage = (event) => {
+  const data = JSON.parse(event.data);
+
+  if (data.type === "capacityUpdated") {
+    renderDailySummaryTable();
+    loadData();
+    fetchOverrides();
+    fetchCapacityAndOverride();
+    //showToast(`🧹 Removed data for ${data.date}`);
+  }
+
+  if (data.type === "updateStatus") {
+    const isPaused = data.imapPaused;
+    pendingEl.textContent = data.pending ?? 0;
+    successEl.textContent = data.success ?? 0;
+    errorEl.textContent = data.error ?? 0;
+    // ✅ ปรับ UI ปุ่ม
+    const iconSpan = pauseBtn.querySelector("span.text-lg");
+    const textSpan = pauseBtn.querySelector("span.text-sm");
+    if (!isTransitioning) {
+    iconSpan.textContent = isPaused ? "▶️" : "⏸️";
+    textSpan.textContent = isPaused ? "Resume IMAP" : "Pause IMAP";
+    }
+
+    // ✅ แจ้งเตือน Toast
+    showToast(isPaused ? "⏸️ IMAP Paused" : "▶️ IMAP Resumed");
+  }
+};
+
+  ws.onclose = () => {
+    console.warn("⚠️ Disconnected from WebSocket. Retrying in 3s...");
+    updateConnectionStatus(false);
+    setTimeout(setupWebSocket, 3000); // ♻️ retry
+  };
+
+  ws.onerror = (err) => {
+    console.error("❌ WebSocket error:", err);
+    ws.close(); // force close and retry
+  };
+  
+  pauseBtn.onclick = () => {
+  const iconSpan = pauseBtn.querySelector('span.text-lg');
+  const textSpan = pauseBtn.querySelector('span.text-sm');
+  pauseBtn.disabled = true;
+  pauseBtn.classList.add("opacity-50", "cursor-not-allowed");
+
+  const currentLabel = textSpan.textContent;
+  const isPausing = currentLabel.includes("Pause");
+  
+  isTransitioning = true; // ✅ กำลังเปลี่ยนสถานะ
+
+  // แสดงข้อความระหว่างรอ
+iconSpan.textContent = isPausing ? "⏸️" : "▶️";
+textSpan.textContent = isPausing ? "Pausing..." : "Resuming...";
+
+  // ส่งคำสั่ง toggle ไปยัง server
+  ws.send(JSON.stringify({ type: "togglePause" }));
+
+  // ✅ เผื่อกรณี server ไม่ตอบ — reset label เองภายใน 1.5 วินาที
+  setTimeout(() => {
+    if (textSpan.textContent.includes("Resuming") || textSpan.textContent.includes("Pausing")) {
+      iconSpan.textContent = isPausing ? "▶️" : "⏸️";
+      textSpan.textContent = isPausing ? "Resume IMAP" : "Pause IMAP";
+    }
+    isTransitioning = false;
+  }, 1500);
+
+
+  // ป้องกันการคลิกซ้ำช่วงสั้น ๆ
+  setTimeout(() => {
+    pauseBtn.disabled = false;
+    pauseBtn.classList.remove("opacity-50", "cursor-not-allowed");
+  }, 1500);
+};
+}
+    
+ async function renderDailySummaryTable() {
+  const defaultLimit = 8000;
+  const [capacity, override] = await Promise.all([
+    fetch('/api/capacity').then(res => res.json()),
+    fetch('/api/override').then(res => res.json())
+  ]);
+
+  const table = document.getElementById("dailySummaryTable");
+  const allDates = new Set([...Object.keys(capacity), ...Object.keys(override)]);
+  const dates = [...allDates].sort();
+
+const rows = dates
+  .filter(date => {
+    const used = capacity[date] || 0;
+    const overrideLimit = override[date];
+
+    const hasRealOverride =
+      Object.prototype.hasOwnProperty.call(override, date) &&
+      overrideLimit !== 8000 &&
+      overrideLimit > 0;
+
+    return used > 0 || hasRealOverride;
+  })
+  .map(date => {
+    const used = capacity[date] || 0;
+    const limit = override[date] || 8000;
+    const percent = limit > 0 ? Math.round((used / limit) * 100) : 0;
+
+      let rowClass = "";
+      let percentClass = "text-gray-300";
+      if (percent > 90) {
+        rowClass = "bg-red-800 text-red-200";
+        percentClass = "text-red-300 font-bold";
+      } else if (percent > 80) {
+        rowClass = "bg-red-900 text-red-200";
+        percentClass = "text-red-400 font-semibold";
+      } else if (percent >= 70) {
+        rowClass = "bg-yellow-900 text-yellow-200";
+        percentClass = "text-yellow-300 font-medium";
+      }
+
+      return `<tr class="border-b border-gray-800 ${rowClass}">
+  <td class="text-center px-2">
+    <input type="checkbox" class="summary-checkbox" data-date="${date}" />
+  </td>
+  <td class="py-1 font-semibold px-2">${date}</td>
+  <td class="px-2">
+    <input type="number"
+      value="${used}"
+      onchange="saveInlineUsed('${date}', this.value)"
+      class="bg-gray-700 text-white px-2 py-1 rounded w-24 text-right" />
+  </td>
+  <td class="px-2">
+    <input type="number"
+      value="${limit}"
+      onchange="saveInlineOverride('${date}', this.value)"
+      class="bg-gray-700 text-white px-2 py-1 rounded w-24 text-right" />
+  </td>
+  <td class="px-2 ${percentClass}">${percent}% ${percent > 100 ? '⚠️' : ''}</td>
+</tr>`;
+    })
+    .join("");
+
+  table.innerHTML = rows;
+}
+
+
+    
+    async function saveOverride() {
+      const date = document.getElementById("overrideDate").value;
+      const value = parseInt(document.getElementById("overrideValue").value);
+      const warning = document.getElementById("overrideWarning");
+      const message = document.getElementById("overrideMessage");
+      if (!date || isNaN(value)) return alert("Please select a valid date and number");
+
+      const current = await fetch('/api/override').then(res => res.json());
+      const updated = { ...current, [date]: value };
+      const capacity = await fetch('/api/capacity').then(res => res.json());
+      const used = capacity[date] || 0;
+
+      if (value < used) {
+        warning.classList.remove("hidden");
+        message.classList.add("hidden");
+        return;
+      } else {
+        warning.classList.add("hidden");
+      }
+      
+      const res = await fetch('/api/override', {
+        method: 'POST', headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(updated)
+      }).then(res => res.json());
+
+      if (res.success) {
+        message.classList.remove("hidden");
+        setTimeout(() => message.classList.add("hidden"), 2000);
+        document.getElementById("overrideDate")._flatpickr.clear();
+        document.getElementById("overrideValue").value = "";
+        renderDailySummaryTable(); // ✅ ตาราง
+  	loadData();    
+        fetchOverrides();
+      } else {
+        alert("Failed to save override");
+      }
+    }
+
+    async function fetchOverrides() {
+    
+     const table = document.getElementById("overrideItems");
+  if (!table) {
+    console.warn("⚠️ overrideItems table not found — skipping update");
+    return;
+  }
+      const [capacityMap, overrideMap] = await Promise.all([
+        fetch('/api/capacity').then(res => res.json()),
+        fetch('/api/override').then(res => res.json())
+      ]);
+      
+      table.innerHTML = Object.entries(overrideMap).sort(([a],[b]) => a.localeCompare(b)).map(([date, limit]) => {
+        const used = capacityMap[date] || 0;
+        const percent = Math.round((used / limit) * 100);
+        let color = 'text-gray-400';
+        if (percent > 100) color = 'text-red-400';
+        else if (percent > 90) color = 'text-yellow-400';
+        return `<tr class="border-b border-gray-800">
+          <td class="py-1 font-semibold">${date}</td>
+          <td><input type="number" value="${limit}" onchange="saveInlineOverride('${date}', this.value)" class="bg-gray-700 text-white px-2 py-1 rounded w-24 text-right" /></td>
+          <td class="${color}">${used.toLocaleString()} / ${limit}</td>
+          <td><button onclick="deleteOverride('${date}')" class="text-red-400 hover:text-red-200 text-sm">✖ Delete</button></td>
+        </tr>`;
+      }).join("");
+    }
+
+    async function deleteOverride(date) {
+      const overrideMap = await fetch('/api/override').then(res => res.json());
+      delete overrideMap[date];
+      await fetch('/api/override', {
+        method: 'POST', headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(overrideMap)
+      });
+	renderDailySummaryTable();
+	loadData();
+      fetchOverrides();
+    }
+    
+    
+
+async function adjustCapacity() {
+  const date = document.getElementById("adjustDate").value;
+  const amount = parseInt(document.getElementById("adjustAmount").value);
+  const message = document.getElementById("adjustMessage");
+
+  if (!date || isNaN(amount) || amount === 0) return alert("กรุณาระบุวันที่และจำนวนคำที่ต้องการปรับ (+ หรือ -)");
+
+  const res = await fetch('/api/adjust', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ date, amount })
+  }).then(r => r.json());
+
+  if (res.success) {
+    message.classList.remove("hidden");
+    setTimeout(() => message.classList.add("hidden"), 2000);
+    document.getElementById("adjustDate").value = "";
+    document.getElementById("adjustAmount").value = "";
+    loadData(date);
+    fetchOverrides();
+renderDailySummaryTable(); // ✅ ตาราง
+  loadData();   
+  } else {
+    alert("❌ ปรับยอดไม่สำเร็จ");
+  }
+}
+
+
+function saveInlineUsed(date, newValue) {
+  const parsed = parseInt(newValue);
+  if (isNaN(parsed)) return;
+
+  Promise.all([
+    fetch('/api/capacity').then(res => res.json()),
+    fetch('/api/override').then(res => res.json())
+  ]).then(([capacityMap, overrideMap]) => {
+    const old = capacityMap[date] || 0;
+    const limit = overrideMap[date] || 8000;
+    const delta = parsed - old;
+
+    // ✅ Validation
+    if (parsed < 0) {
+      alert("❌ Used cannot be negative");
+      return;
+    }
+
+    if (parsed > limit) {
+      alert("❌ Used cannot exceed Limit");
+      return;
+    }
+
+    // ✅ ถ้าไม่มีการเปลี่ยน ไม่ต้องทำอะไร
+    if (delta === 0) return;
+
+    // ✅ ปรับยอดผ่าน /api/adjust
+    return fetch('/api/adjust', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ date, amount: delta })
+    });
+  }).then(() => {
+    renderDailySummaryTable();
+    loadData();
+    fetchOverrides();
+  });
+}
+
+async function fetchCapacityAndOverride() {
+  const [cap, override] = await Promise.all([
+    fetch('/api/capacity').then(r => r.json()),
+    fetch('/api/override').then(r => r.json())
+  ]);
+
+  updateCapacityUI(cap);       // ← ฟังก์ชันที่อัปเดตกราฟ/ตาราง
+  updateOverrideUI(override);  // ← ฟังก์ชันที่อัปเดต override section
+}
+
+    function saveInlineOverride(date, newValue) {
+      const parsed = parseInt(newValue);
+      if (isNaN(parsed)) return;
+      fetch('/api/override')
+        .then(res => res.json())
+        .then(current => {
+          const updated = { ...current, [date]: parsed };
+          return fetch('/api/override', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(updated)
+          });
+        })
+        .then(() => fetchOverrides());
+    }
+
+    const ctx = document.getElementById('capacityChart').getContext('2d');
+    const chart = new Chart(ctx, {
+      type: 'bar',
+      data: {
+        labels: [],
+        datasets: [
+          { label: 'Used Capacity', data: [], backgroundColor: 'rgba(59,130,246,0.6)' },
+          { label: 'Override Limit', data: [], backgroundColor: 'rgba(16,185,129,0.6)' }
+        ]
+      },
+      options: {
+        responsive: true,
+        scales: { y: { beginAtZero: true } },
+        plugins: { legend: { position: 'bottom' } }
+      }
+    });
+
+    async function loadData(selectedDateOverride = null) {
+      const [capacity, override] = await Promise.all([
+        fetch('/api/capacity').then(res => res.json()),
+        fetch('/api/override').then(res => res.json())
+      ]);
+
+      const allDates = new Set([...Object.keys(capacity), ...Object.keys(override)]);
+      const dates = [...allDates].sort();
+      const validDates = dates.filter(d => (capacity[d] || 0) > 0);
+      chart.data.labels = validDates;
+      chart.data.datasets[0].data = validDates.map(d => capacity[d] || 0);
+      chart.data.datasets[1].data = validDates.map(d => override[d] || 8000);
+      chart.update();
+      const selected = selectedDateOverride || dates[dates.length - 1];
+      const used = capacity[selected] || 0;
+      const limit = override[selected] || 8000;
+      const percent = limit > 0 ? Math.round((used / limit) * 100) : 0;
+    }
+
+    document.addEventListener("DOMContentLoaded", () => {
+      loadData();
+      fetchOverrides();
+      renderDailySummaryTable();
+      setupWebSocket();
+    });
+
+const cleanupBtn = document.getElementById("cleanupBtn");
+
+cleanupBtn.onclick = async () => {
+  const checkboxes = document.querySelectorAll(".summary-checkbox:checked");
+  const dates = Array.from(checkboxes).map(cb => cb.dataset.date);
+
+  if (dates.length === 0) {
+    queueToast("⚠️ Please select at least 1 date from Summary");
+    return;
+  }
+
+  queueToast(`🧹 Cleaning ${dates.length} day(s)...`, 1000);
+
+  try {
+    const res = await fetch("/api/cleanup", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ dates }),
+    });
+    const result = await res.json();
+
+    if (result.success) {
+      setTimeout(() => {queueToast("✅ Cleanup success");}, 1000);
+      await fetchOverrides();
+      renderDailySummaryTable();
+    } else {
+      queueToast("❌ Cleanup failed: " + (result.message || "Unknown error"));
+    }
+  } catch (err) {
+    queueToast("❌ Cleanup error: " + err.message);
+  }
+};
+
+
+
+function showToast(message, duration = 2000) {
+  // 🔁 ลบ toast เดิม
+  document.querySelectorAll(".toast-message").forEach(el => el.remove());
+
+  const toast = document.createElement("div");
+  toast.innerHTML = `<span style="color: white;">${message}</span>`;
+  toast.className = `
+    toast-message
+    fixed bottom-6 right-6
+    bg-black bg-opacity-90 text-white text-sm
+    px-4 py-2 rounded-lg shadow-lg animate-fade-in
+    transition-opacity z-50
+  `;
+
+  document.body.appendChild(toast);
+
+  setTimeout(() => {
+    toast.classList.add("opacity-0");
+    setTimeout(() => toast.remove(), 300);
+  }, duration);
+}
+
+let toastQueue = Promise.resolve();
+
+function queueToast(message, duration = 2000) {
+  toastQueue = toastQueue.then(() => new Promise((resolve) => {
+    showToast(message, duration);
+    setTimeout(resolve, duration + 400);
+  }));
+}
+
+
+// 🔧 เพิ่ม animation class
+const style = document.createElement("style");
+style.textContent = `
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.animate-fade-in {
+  animation: fadeIn 0.3s ease forwards;
+}
+`;
+document.head.appendChild(style);
+
+</script>
+</body>
+</html>
