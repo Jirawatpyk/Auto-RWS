@@ -211,13 +211,19 @@ module.exports = async function execAccept({ page, url }) {
 	let currentPage = page;
 
     try {
-      await currentPage.goto(url, { waitUntil: 'networkidle2', timeout: 30000 });
+      logInfo(`🌐 Navigating to task URL...`);
+      console.time('PageGotoTime'); // Start timer
+      await currentPage.goto(url, { waitUntil: 'domcontentloaded', timeout: 30000 });
+      console.timeEnd('PageGotoTime'); // End timer
     } catch (gotoErr) {
+      console.timeEnd('PageGotoTime'); // End timer on error too
       logInfo(`❌ First goto failed: ${gotoErr.message} — retrying with new tab...`);
 
       try {
         const newPage = await page.browser().newPage();
-        await newPage.goto(url, { waitUntil: 'networkidle2', timeout: 30000 });
+        console.time('PageGotoTimeRetry'); // Start timer for retry
+        await newPage.goto(url, { waitUntil: 'domcontentloaded', timeout: 30000 });
+        console.timeEnd('PageGotoTimeRetry'); // End timer for retry
 
         if (page !== newPage) await page.close();
             logSuccess('✅ Retried with new tab and succeeded.');
